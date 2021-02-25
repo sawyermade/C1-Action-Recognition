@@ -1,0 +1,32 @@
+Jordan Canonical Forms, Jordan Normal Forms check scikit-learn and numpy
+
+Links: Sort rows and columns, block diagonal form check numpy
+https://arxiv.org/pdf/1710.06501.pdf
+https://www.visgraf.impa.br/mediascopium/wp-content/uploads/2017/09/feifeili_webinar_7.jpg
+
+python pass in confusion matrix 
+
+1. Confusion: check verbs and noun confusions most errors, and most correct: create subset of verb/noun that are detractors. Will show up as verticle line
+
+Top 10-20 of each: Possible reorder classes to most frequent/correct/wrong
+2. Subset of really bad verb/nouns.
+
+3. Subset of middle verb/nouns.
+
+4. Subset of best verb/nouns.
+
+5. Ignore tail verb/noun
+
+6. histogram of verb/noun classes for occurances in validation
+
+7. possible heatmap
+
+8. How many errors are in tails and percentage of dominant/worst tails.
+
+9. With all tails right, how well does it improve overall performance and is it worth.
+
+10. Slides for presentation with all information
+
+11. positional encoding for noun
+
+12. data balance and focal loss, count occurences of class/noun/verbs weight based on freq and normalize weight.

@@ -1,0 +1,294 @@
+{
+   "0": {
+      "class": 0,
+      "label": "tap"
+   },
+   "1": {
+      "class": 1,
+      "label": "spoon"
+   },
+   "2": {
+      "class": 2,
+      "label": "plate"
+   },
+   "3": {
+      "class": 3,
+      "label": "cupboard"
+   },
+   "4": {
+      "class": 4,
+      "label": "knife"
+   },
+   "5": {
+      "class": 5,
+      "label": "pan"
+   },
+   "6": {
+      "class": 6,
+      "label": "lid"
+   },
+   "7": {
+      "class": 7,
+      "label": "bowl"
+   },
+   "8": {
+      "class": 8,
+      "label": "drawer"
+   },
+   "9": {
+      "class": 9,
+      "label": "sponge"
+   },
+   "10": {
+      "class": 10,
+      "label": "glass"
+   },
+   "11": {
+      "class": 11,
+      "label": "hand"
+   },
+   "12": {
+      "class": 12,
+      "label": "fridge"
+   },
+   "13": {
+      "class": 13,
+      "label": "cup"
+   },
+   "14": {
+      "class": 14,
+      "label": "fork"
+   },
+   "15": {
+      "class": 15,
+      "label": "bottle"
+   },
+   "16": {
+      "class": 16,
+      "label": "onion"
+   },
+   "17": {
+      "class": 17,
+      "label": "cloth"
+   },
+   "18": {
+      "class": 18,
+      "label": "board:chopping"
+   },
+   "19": {
+      "class": 19,
+      "label": "bag"
+   },
+   "20": {
+      "class": 20,
+      "label": "spatula"
+   },
+   "21": {
+      "class": 21,
+      "label": "container"
+   },
+   "22": {
+      "class": 22,
+      "label": "liquid:washing"
+   },
+   "23": {
+      "class": 23,
+      "label": "box"
+   },
+   "24": {
+      "class": 24,
+      "label": "hob"
+   },
+   "25": {
+      "class": 25,
+      "label": "dough"
+   },
+   "26": {
+      "class": 26,
+      "label": "package"
+   },
+   "27": {
+      "class": 27,
+      "label": "water"
+   },
+   "28": {
+      "class": 28,
+      "label": "meat"
+   },
+   "29": {
+      "class": 29,
+      "label": "pot"
+   },
+   "30": {
+      "class": 30,
+      "label": "potato"
+   },
+   "31": {
+      "class": 31,
+      "label": "oil"
+   },
+   "32": {
+      "class": 32,
+      "label": "cheese"
+   },
+   "33": {
+      "class": 33,
+      "label": "bread"
+   },
+   "34": {
+      "class": 34,
+      "label": "food"
+   },
+   "35": {
+      "class": 35,
+      "label": "tray"
+   },
+   "36": {
+      "class": 36,
+      "label": "bin"
+   },
+   "37": {
+      "class": 37,
+      "label": "pepper"
+   },
+   "38": {
+      "class": 38,
+      "label": "salt"
+   },
+   "39": {
+      "class": 39,
+      "label": "colander"
+   },
+   "40": {
+      "class": 40,
+      "label": "jar"
+   },
+   "41": {
+      "class": 41,
+      "label": "carrot"
+   },
+   "42": {
+      "class": 42,
+      "label": "top"
+   },
+   "43": {
+      "class": 43,
+      "label": "tomato"
+   },
+   "44": {
+      "class": 44,
+      "label": "kettle"
+   },
+   "45": {
+      "class": 45,
+      "label": "pasta"
+   },
+   "46": {
+      "class": 46,
+      "label": "oven"
+   },
+   "47": {
+      "class": 47,
+      "label": "sauce"
+   },
+   "48": {
+      "class": 48,
+      "label": "skin"
+   },
+   "49": {
+      "class": 49,
+      "label": "paper"
+   },
+   "50": {
+      "class": 50,
+      "label": "maker:coffee"
+   },
+   "51": {
+      "class": 51,
+      "label": "garlic"
+   },
+   "52": {
+      "class": 52,
+      "label": "towel"
+   },
+   "53": {
+      "class": 53,
+      "label": "egg"
+   },
+   "54": {
+      "class": 54,
+      "label": "rubbish"
+   },
+   "55": {
+      "class": 55,
+      "label": "rice"
+   },
+   "57": {
+      "class": 56,
+      "label": "chicken"
+   },
+   "58": {
+      "class": 57,
+      "label": "cutlery"
+   },
+   "60": {
+      "class": 58,
+      "label": "glove"
+   },
+   "63": {
+      "class": 59,
+      "label": "sink"
+   },
+   "66": {
+      "class": 60,
+      "label": "jug"
+   },
+   "205": {
+      "class": 61,
+      "label": "asparagus"
+   },
+   "240": {
+      "class": 62,
+      "label": "quorn"
+   },
+   "270": {
+      "class": 63,
+      "label": "gherkin"
+   },
+   "275": {
+      "class": 64,
+      "label": "popcorn"
+   },
+   "286": {
+      "class": 65,
+      "label": "balloon"
+   },
+   "288": {
+      "class": 66,
+      "label": "computer"
+   },
+   "289": {
+      "class": 67,
+      "label": "key"
+   },
+   "290": {
+      "class": 68,
+      "label": "pillow"
+   },
+   "294": {
+      "class": 69,
+      "label": "whiskey"
+   },
+   "295": {
+      "class": 70,
+      "label": "door:kitchen"
+   },
+   "296": {
+      "class": 71,
+      "label": "tape"
+   },
+   "tails": {
+      "class": 72,
+      "label": "tails"
+   }
+}

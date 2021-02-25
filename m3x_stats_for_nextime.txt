@@ -1,0 +1,13 @@
+1. Make Verb and Noun frequency charts
+
+2. Normalize results and get percentages from confusion matrix
+
+3. Keep top 15-20 nouns, based on instances/frequency for rows and cols
+
+4. Put more effort into nouns or verbs? Highest freq or tails? which would give better performance to focus on
+
+5. Get sense of which actions get most performance on fixing confusion
+
+6. Save CSV of confusion matrices email to dr. sarkar
+
+7. Make flowchart like Tian and put em together once ours are done

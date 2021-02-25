@@ -1,0 +1,13 @@
+1. timeline for competition/project m3x
+
+2. performance/metric tools
+
+3. finish and train own network, going to do TPN implementation, compare validation results, make a submission, then add transformer. 4 weeks tops and then can start iterating changes quickly on GAIVI/DeepVision
+
+4. submit
+
+5. house closing 11am tmr
+
+6. Exam monday
+
+7. Finished grading, doing reports tonight asignment 3
